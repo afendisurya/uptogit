@@ -1,4 +1,4 @@
-![#GAMBAR_FLOWCHART](flowchart.svg)
+![#GAMBAR_FLOWCHART](flowchart.jpg)
 
 # v1.0.0
 
